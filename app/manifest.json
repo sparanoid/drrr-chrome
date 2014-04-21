@@ -1,20 +1,19 @@
 {
-    "name": "__MSG_appName__",
-    "description": "__MSG_appDescription__",
-    "version": "4",
-    "manifest_version": 2,
-    "default_locale": "en",
-    "permissions": [],
-    "icons": {
-        "16": "images/icon-16.png",
-        "128": "images/icon-128.png"
+  "name": "__MSG_appName__",
+  "description": "__MSG_appDescription__",
+  "version": "0.0.4",
+  "manifest_version": 2,
+  "default_locale": "en",
+  "permissions": [],
+  "icons": {
+    "128": "images/icon-128.png"
+  },
+  "app": {
+    "launch": {
+      "web_url": "http://drrr.us/"
     },
-    "app": {
-        "background": {
-            "scripts": [
-                "scripts/main.js",
-                "scripts/chromereload.js"
-            ]
-        }
-    }
+    "urls": [
+      "http://drrr.us/"
+    ]
+  }
 }

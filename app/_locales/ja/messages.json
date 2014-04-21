@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "DOLLARS",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "DOLLARS \u90E8\u5C4B | DRRR!! \u90E8\u5C4B | \u30C7\u30E5\u30E9\u30E9\u30E9!! \u90E8\u5C4B",
+    "description": "The description of the application"
+  }
+}
