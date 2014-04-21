@@ -1,10 +1,10 @@
 {
-    "appName": {
-        "message": "DOLLARS",
-        "description": "The name of the application"
-    },
-    "appDescription": {
-        "message": "My Chrome App",
-        "description": "The description of the application"
-    }
+  "appName": {
+    "message": "DOLLARS",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "DOLLARS Chatroom | DRRR!! Chatroom | DuRaRaRa!! Chatroom | \u30C7\u30E5\u30E9\u30E9\u30E9!!",
+    "description": "The description of the application"
+  }
 }
