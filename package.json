@@ -23,7 +23,7 @@
     "load-grunt-tasks": "0.2.1",
     "time-grunt": "0.2.10",
     "jshint-stylish": "0.1.5",
-    "grunt-chrome-manifest": "0.2.4",
+    "grunt-chrome-manifest": "0.3.0",
     "grunt-contrib-compress": "0.5.3"
   },
   "engines": {
