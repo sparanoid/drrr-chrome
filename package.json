@@ -24,7 +24,7 @@
     "time-grunt": "0.2.10",
     "jshint-stylish": "0.1.5",
     "grunt-chrome-manifest": "0.2.4",
-    "grunt-contrib-compress": "0.5.3"
+    "grunt-contrib-compress": "0.14.0"
   },
   "engines": {
     "node": ">=0.8.0"
